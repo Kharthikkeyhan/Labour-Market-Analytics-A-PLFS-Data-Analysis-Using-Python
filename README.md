@@ -267,6 +267,11 @@ The distribution of persons surveyed is **positively skewed**, primarily because
 - Household size varies across states, highlighting regional demographic differences.
 - Quarterly survey implementation shows consistent coverage with only minor seasonal variation.
 
+   Line Plot – Year vs Persons per Block
+  
+  <img width="708" height="470" alt="image" src="https://github.com/user-attachments/assets/ccbfdfda-8bd9-4783-8ae5-1a768f420e08" />
+
+
 ---
 
 # 📌 Types of Analysis

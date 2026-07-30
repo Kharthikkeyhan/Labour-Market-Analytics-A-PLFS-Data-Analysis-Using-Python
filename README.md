@@ -267,10 +267,27 @@ The distribution of persons surveyed is **positively skewed**, primarily because
 - Household size varies across states, highlighting regional demographic differences.
 - Quarterly survey implementation shows consistent coverage with only minor seasonal variation.
 
-   Line Plot – Year vs Persons per Block
+   **Line Plot – Year vs Persons per Block**
   
   <img width="708" height="470" alt="image" src="https://github.com/user-attachments/assets/ccbfdfda-8bd9-4783-8ae5-1a768f420e08" />
 
+  
+   **Bar Plot: Working-Age Population Share by Year**
+
+  <img width="686" height="470" alt="image" src="https://github.com/user-attachments/assets/35445585-fff3-4fd8-8a43-2400c27db169" />
+
+
+  **Pivot Table Heatmap (State × Year × Persons per Household)**
+
+  <img width="1050" height="855" alt="image" src="https://github.com/user-attachments/assets/39228b90-aa16-48fe-96b3-e1e53fcb4b01" />
+
+  **Grouped Box Plot (Quarter × Persons Surveyed × Year)**
+
+  <img width="954" height="552" alt="image" src="https://github.com/user-attachments/assets/7f960f92-5d12-484d-87eb-b1d19984ea65" />
+
+  **Pivot Table Heatmap (Year × Quarter × Working-Age Share)**
+
+  <img width="653" height="547" alt="image" src="https://github.com/user-attachments/assets/2bc55e73-08fe-4710-9d5a-405da7c4f49c" />
 
 ---
 
